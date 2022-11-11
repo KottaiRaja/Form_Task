@@ -1,0 +1,13 @@
+.card{
+    width: 100%;
+    height: 50vh;
+    margin-top: 100px;
+}
+.inner_card{
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
